@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="80">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <logicalFolder name="Command Line Extractor"
+                     displayName="Command Line Extractor"
+                     projectFiles="true">
+        <itemPath>../../Track-Extraction-Software/Command Line Program/Command Line Extractor/main.cpp</itemPath>
+      </logicalFolder>
+      <logicalFolder name="f1"
+                     displayName="Image-Stack-Compressor"
+                     projectFiles="true">
+        <itemPath>../../Track-Extraction-Software/Image-Stack-Compressor/BackgroundRemovedImage.cpp</itemPath>
+        <itemPath>../../Track-Extraction-Software/Image-Stack-Compressor/BackgroundRemovedImageLoader.cpp</itemPath>
+        <itemPath>../../Track-Extraction-Software/Image-Stack-Compressor/CompositeImageMetaData.cpp</itemPath>
+        <itemPath>../../Track-Extraction-Software/Image-Stack-Compressor/CompositeImageMetaData.h</itemPath>
+        <itemPath>../../Track-Extraction-Software/Image-Stack-Compressor/ExtraDataWriter.cpp</itemPath>
+        <itemPath>../../Track-Extraction-Software/Image-Stack-Compressor/ImageMetaData.h</itemPath>
+        <itemPath>../../Track-Extraction-Software/Image-Stack-Compressor/ImageMetaDataLoader.cpp</itemPath>
+        <itemPath>../../Track-Extraction-Software/Image-Stack-Compressor/ImageMetaDataLoader.h</itemPath>
+        <itemPath>../../Track-Extraction-Software/Image-Stack-Compressor/IplImageLoaderFixedWidth.cpp</itemPath>
+        <itemPath>../../Track-Extraction-Software/Image-Stack-Compressor/IplImageLoaderFixedWidth.h</itemPath>
+        <itemPath>../../Track-Extraction-Software/Image-Stack-Compressor/LinearStackCompressor.cpp</itemPath>
+        <itemPath>../../Track-Extraction-Software/Image-Stack-Compressor/LinearStackCompressor.h</itemPath>
+        <itemPath>../../Track-Extraction-Software/Image-Stack-Compressor/MightexMetaData.cpp</itemPath>
+        <itemPath>../../Track-Extraction-Software/Image-Stack-Compressor/MightexMetaData.h</itemPath>
+        <itemPath>../../Track-Extraction-Software/Image-Stack-Compressor/NameValueMetaData.cpp</itemPath>
+        <itemPath>../../Track-Extraction-Software/Image-Stack-Compressor/StackReader.cpp</itemPath>
+        <itemPath>../../Track-Extraction-Software/Image-Stack-Compressor/StackReader.h</itemPath>
+        <itemPath>../../Track-Extraction-Software/Image-Stack-Compressor/StaticBackgroundCompressor.cpp</itemPath>
+        <itemPath>../../Track-Extraction-Software/Image-Stack-Compressor/StaticBackgroundCompressorLoader.cpp</itemPath>
+      </logicalFolder>
+      <logicalFolder name="source code" displayName="source code" projectFiles="true">
+        <itemPath>../../Track-Extraction-Software/source code/AutoThresholder.cpp</itemPath>
+        <itemPath>../../Track-Extraction-Software/source code/AutoThresholder.h</itemPath>
+        <itemPath>../../Track-Extraction-Software/source code/BatchExtractor.cpp</itemPath>
+        <itemPath>../../Track-Extraction-Software/source code/BatchExtractor.h</itemPath>
+        <itemPath>../../Track-Extraction-Software/source code/ContourPoint.cpp</itemPath>
+        <itemPath>../../Track-Extraction-Software/source code/ContourPoint.h</itemPath>
+        <itemPath>../../Track-Extraction-Software/source code/CvUtilsPlusPlus.cpp</itemPath>
+        <itemPath>../../Track-Extraction-Software/source code/CvUtilsPlusPlus.h</itemPath>
+        <itemPath>../../Track-Extraction-Software/source code/FrameLoader.cpp</itemPath>
+        <itemPath>../../Track-Extraction-Software/source code/FrameLoader.h</itemPath>
+        <itemPath>../../Track-Extraction-Software/source code/ImLoader.cpp</itemPath>
+        <itemPath>../../Track-Extraction-Software/source code/ImLoader.h</itemPath>
+        <itemPath>../../Track-Extraction-Software/source code/ImTrackPoint.cpp</itemPath>
+        <itemPath>../../Track-Extraction-Software/source code/ImTrackPoint.h</itemPath>
+        <itemPath>../../Track-Extraction-Software/source code/MaggotReprocessor.cpp</itemPath>
+        <itemPath>../../Track-Extraction-Software/source code/MaggotReprocessor.h</itemPath>
+        <itemPath>../../Track-Extraction-Software/source code/MaggotTrackBuilder.cpp</itemPath>
+        <itemPath>../../Track-Extraction-Software/source code/MaggotTrackBuilder.h</itemPath>
+        <itemPath>../../Track-Extraction-Software/source code/MaggotTrackExtractor.cpp</itemPath>
+        <itemPath>../../Track-Extraction-Software/source code/MaggotTrackExtractor.h</itemPath>
+        <itemPath>../../Track-Extraction-Software/source code/MaggotTrackPoint.cpp</itemPath>
+        <itemPath>../../Track-Extraction-Software/source code/MaggotTrackPoint.h</itemPath>
+        <itemPath>../../Track-Extraction-Software/source code/MidlineMaggotTrackPoint.cpp</itemPath>
+        <itemPath>../../Track-Extraction-Software/source code/MidlineMaggotTrackPoint.h</itemPath>
+        <itemPath>../../Track-Extraction-Software/source code/PointExtractor.cpp</itemPath>
+        <itemPath>../../Track-Extraction-Software/source code/PointExtractor.h</itemPath>
+        <itemPath>../../Track-Extraction-Software/source code/StackLoader.cpp</itemPath>
+        <itemPath>../../Track-Extraction-Software/source code/StackLoader.h</itemPath>
+        <itemPath>../../Track-Extraction-Software/source code/Track.cpp</itemPath>
+        <itemPath>../../Track-Extraction-Software/source code/Track.h</itemPath>
+        <itemPath>../../Track-Extraction-Software/source code/TrackBuilder.cpp</itemPath>
+        <itemPath>../../Track-Extraction-Software/source code/TrackBuilder.h</itemPath>
+        <itemPath>../../Track-Extraction-Software/source code/TrackExtractor.cpp</itemPath>
+        <itemPath>../../Track-Extraction-Software/source code/TrackExtractor.h</itemPath>
+        <itemPath>../../Track-Extraction-Software/source code/TrackMatch.cpp</itemPath>
+        <itemPath>../../Track-Extraction-Software/source code/TrackMatch.h</itemPath>
+        <itemPath>../../Track-Extraction-Software/source code/TrackPoint.cpp</itemPath>
+        <itemPath>../../Track-Extraction-Software/source code/TrackPoint.h</itemPath>
+        <itemPath>../../Track-Extraction-Software/source code/WormPointExtractor.cpp</itemPath>
+        <itemPath>../../Track-Extraction-Software/source code/WormPointExtractor.h</itemPath>
+        <itemPath>../../Track-Extraction-Software/source code/WormTrackBuilder.cpp</itemPath>
+        <itemPath>../../Track-Extraction-Software/source code/WormTrackBuilder.h</itemPath>
+        <itemPath>../../Track-Extraction-Software/source code/communicator.cpp</itemPath>
+        <itemPath>../../Track-Extraction-Software/source code/communicator.h</itemPath>
+        <itemPath>../../Track-Extraction-Software/source code/newDLLWrapper.cpp</itemPath>
+        <itemPath>../../Track-Extraction-Software/source code/newDLLWrapper.h</itemPath>
+      </logicalFolder>
+      <logicalFolder name="tictoc" displayName="tictoc" projectFiles="true">
+        <itemPath>../../Track-Extraction-Software/Image-Stack-Compressor/tictoc/Makefile</itemPath>
+        <itemPath>../../Track-Extraction-Software/Image-Stack-Compressor/tictoc/Timer.cpp</itemPath>
+        <itemPath>../../Track-Extraction-Software/Image-Stack-Compressor/tictoc/Timer.h</itemPath>
+        <itemPath>../../Track-Extraction-Software/Image-Stack-Compressor/tictoc/license.txt</itemPath>
+        <itemPath>../../Track-Extraction-Software/Image-Stack-Compressor/tictoc/subpart.cpp</itemPath>
+        <itemPath>../../Track-Extraction-Software/Image-Stack-Compressor/tictoc/subpart.h</itemPath>
+        <itemPath>../../Track-Extraction-Software/Image-Stack-Compressor/tictoc/tictoc.cpp</itemPath>
+        <itemPath>../../Track-Extraction-Software/Image-Stack-Compressor/tictoc/tictoc.h</itemPath>
+      </logicalFolder>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <sourceRootList>
+    <Elem>../../Track-Extraction-Software/Command Line Program/Command Line Extractor</Elem>
+    <Elem>../../Track-Extraction-Software/source code</Elem>
+    <Elem>../../Marc-TicToc</Elem>
+    <Elem>../../Track-Extraction-Software/Image-Stack-Compressor/tictoc</Elem>
+  </sourceRootList>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <remote-sources-mode>LOCAL_SOURCES</remote-sources-mode>
+        <compilerSet>default</compilerSet>
+      </toolsSet>
+      <compileType>
+        <ccTool>
+          <incDir>
+            <pElem>../../Track-Extraction-Software/source code</pElem>
+            <pElem>/usr/include/opencv</pElem>
+            <pElem>../../Marc-TicToc</pElem>
+            <pElem>../../Track-Extraction-Software_20111221/Image-Stack-Compressor</pElem>
+            <pElem>../../Track-Extraction-Software_20111221/yaml-cpp/include</pElem>
+          </incDir>
+          <commandLine>-lcv -lyaml-cpp -L/usr/local/lib -lcv -lhighgui -lstdc++</commandLine>
+        </ccTool>
+        <linkerTool>
+          <linkerLibItems>
+            <linkerLibFileItem>/usr/local/lib/libyaml-cpp.a</linkerLibFileItem>
+          </linkerLibItems>
+        </linkerTool>
+      </compileType>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <remote-sources-mode>LOCAL_SOURCES</remote-sources-mode>
+        <compilerSet>default</compilerSet>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+          <commandLine>-lcv -lyaml-cpp -L/usr/local/lib -lcv -lhighgui -lstdc++ -static-libstdc++</commandLine>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+      </compileType>
+    </conf>
+    <conf name="Static" type="1">
+      <toolsSet>
+        <remote-sources-mode>LOCAL_SOURCES</remote-sources-mode>
+        <compilerSet>default</compilerSet>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <commandlineTool>gcc</commandlineTool>
+        </cTool>
+        <ccTool>
+          <incDir>
+            <pElem>../../Track-Extraction-Software/source code</pElem>
+            <pElem>/usr/include/opencv</pElem>
+            <pElem>../../Marc-TicToc</pElem>
+            <pElem>/usr/local/OpenCV/include/opencv</pElem>
+            <pElem>/usr/local/include</pElem>
+            <pElem>/usr/local/yaml-cpp/include</pElem>
+            <pElem>../../Track-Extraction-Software/Image-Stack-Compressor</pElem>
+            <pElem>/usr/local/include/opencv</pElem>
+            <pElem>/usr/local/include/yaml-cpp</pElem>
+          </incDir>
+          <commandLine>-lcv -lyaml-cpp -lhighgui -lstdc++</commandLine>
+        </ccTool>
+        <linkerTool>
+          <linkerAddLib>
+            <pElem>/usr/local/lib</pElem>
+            <pElem>/usr/local/OpenCV/lib</pElem>
+          </linkerAddLib>
+          <linkerLibItems>
+            <linkerLibLibItem>yaml-cpp</linkerLibLibItem>
+          </linkerLibItems>
+        </linkerTool>
+      </compileType>
+    </conf>
+    <conf name="JaneliaCluster" type="1">
+      <toolsSet>
+        <remote-sources-mode>LOCAL_SOURCES</remote-sources-mode>
+        <compilerSet>default</compilerSet>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <commandlineTool>gcc</commandlineTool>
+        </cTool>
+        <ccTool>
+          <incDir>
+            <pElem>../../Track-Extraction-Software/source code</pElem>
+            <pElem>../../Marc-TicToc</pElem>
+            <pElem>../../Track-Extraction-Software/Image-Stack-Compressor</pElem>
+            <pElem>/usr/local/OpenCV-1.0.0/include/opencv</pElem>
+            <pElem>/usr/local/include</pElem>
+            <pElem>/usr/local/yaml-cpp/include</pElem>
+          </incDir>
+          <commandLine>-lcv -lyaml-cpp -lhighgui -lstdc++</commandLine>
+        </ccTool>
+        <linkerTool>
+          <linkerAddLib>
+            <pElem>/usr/local/lib</pElem>
+            <pElem>/usr/local/OpenCV-1.0.0/lib</pElem>
+          </linkerAddLib>
+          <linkerLibItems>
+            <linkerLibLibItem>yaml-cpp</linkerLibLibItem>
+          </linkerLibItems>
+        </linkerTool>
+      </compileType>
+    </conf>
+  </confs>
+</configurationDescriptor>
